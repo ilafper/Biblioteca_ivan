@@ -1,0 +1,9 @@
+
+±
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İ“µşÿÿÿÿJ$c4cd2f60-a562-4429-b03a-6534c70bdc4d
+±
+java:S13196"pThe type of "librosPendientes" should be an interface such as "List" rather than the implementation "ArrayList".(‚Îæ„ùÿÿÿÿJ$3b59f678-dc2f-42e9-9c19-7094555c9eba
+V
+java:S1220""Move this file to a named package.J$db62ead3-fbe9-472f-a4d4-65893e3a41ef
+f	java:S106;"+Replace this use of System.out by a logger.(ÿ¤ÿúJ$05006906-2387-4cb1-a03f-71b1c93ce77f
+k	java:S106="+Replace this use of System.out by a logger.(¥å±øÿÿÿÿJ$29b6a448-5815-48ac-9553-df1587d20b72
