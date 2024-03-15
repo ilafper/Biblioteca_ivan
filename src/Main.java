@@ -55,6 +55,7 @@ public class Main {
 
                                     switch (menu2) {
                                         case 1:
+                                            //hola
                                             System.out.print(usuario.toString());
                                             break;
                                         case 2:
